@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Burak
 
-<p>Visit my personal website: </p> 
 [burakkizilay.dev](https://www.burakkizilay.dev/)
 <h3 align="left">🤙 I’m currently developing on mobile applications using Flutter! </h3>
 <h3 align="left">🤙 And I'm developing websites using React and Next.js! </h3>
