@@ -6,6 +6,8 @@
 
 <img src = "https://user-images.githubusercontent.com/40871181/201544469-6163c338-20cc-4ca9-9722-8c34d2ba19e7.png" width="350">
 
+<p href={burakkizilay.dev}>burakkizilay.dev</p>
+
 
 
 
