@@ -1,20 +1,9 @@
-# 👋 Hi, I’m Burak
+# Hi, I’m Burak
 
-[burakkizilay.dev](https://www.burakkizilay.dev/)
-<h3 align="left">🤙 I’m currently developing on mobile applications using Flutter and React Native! </h3>
-<h3 align="left">🤙 And I'm developing websites using React and Next.js! </h3>
+**Your next app — whether mobile or web — starts here.**
 
-
-
-
+### 🚀 What I Do
+**Mobile Apps** with Flutter & React Native
+**Web Apps** with React & Next.js
 
 
-
-
-
-
-
-<!---
-burakkizilay46/burakkizilay46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
